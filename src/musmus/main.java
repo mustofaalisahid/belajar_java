@@ -16,5 +16,6 @@ public class main {
         kalkulator.nilaiSatu = 5;
         kalkulator.nilaiDua = 7;
         kalkulator.jumlah();
+        kalkulator.kali();
     }
 }
