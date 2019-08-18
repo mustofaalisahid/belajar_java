@@ -24,4 +24,11 @@ public class kalkulator {
         System.out.println("Angka kedua \t: " +nilaiDua);
         System.out.println("\nHasil dari " +nilaiSatu +" x " +nilaiDua +" = " +hasil);
     }
+    
+    void bagi(){
+        int hasil = nilaiDua / nilaiSatu;
+        System.out.println("Angka pertama \t: " +nilaiSatu);
+        System.out.println("Angka kedua \t: " +nilaiDua);
+        System.out.println("\nHasil dari " +nilaiSatu +" : " +nilaiDua +" = " +hasil);
+    }
 }
